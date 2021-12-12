@@ -1,1 +1,5 @@
+layout: post
+title: "hello, maggie"
+date: 2021-12-11 16:15:12 -0000
+categories: CATEGORY-1 CATEGORY-2
 hi, this is my first post for this blog
