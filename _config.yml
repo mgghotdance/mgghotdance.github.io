@@ -1,6 +1,6 @@
-title: "雪狐的博客"
-author: "Von Chen"
-description: "Let's Code"
+title: "maggit on hot dance"
+author: "maggie"
+description: "Let's Dance"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:frankchan09@gmail.com"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/snowfox09"}
+  - {title: Mail, icon: envelope, url: "mailto:mgg040200@gmail.com"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
