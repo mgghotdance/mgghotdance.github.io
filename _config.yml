@@ -6,7 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-remote_theme: chrisrhymes/mere-blog-theme
+remote_theme: mgghotdance/mere-blog-theme
 
 # Layout
 
