@@ -48,6 +48,7 @@ With the `jekyll-gist` plugin, which is preinstalled on Github Pages, you can em
 
 ## Images
 
+![frank](/assets/profile_photo.jpeg)
 Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
 
 A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
